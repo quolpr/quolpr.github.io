@@ -1,0 +1,3265 @@
+{
+  "session": {
+    "layoutName": "Blink",
+    "screenHeight": 976,
+    "lastActive": 1534852136361.0,
+    "pageUrl": "https://bryxentestly.github.io/session-test-ground/",
+    "manufacturer": null,
+    "referrer": null,
+    "ip": "95.30.226.70",
+    "docType": "<!DOCTYPE html>",
+    "id": "5b7bfc0147a7f81d4b22a5ce",
+    "isWatched": true,
+    "visibilityState": "visible",
+    "product": null,
+    "browserName": "Chrome",
+    "snapshot": {
+      "childNodes": [
+        {
+          "attributes": [
+            { "value": "", "name": "async" },
+            {
+              "value": "https://cdn.sessionstack.com/sessionstack.js",
+              "name": "src"
+            }
+          ],
+          "id": 5,
+          "tagName": "SCRIPT",
+          "nodeType": 1
+        },
+        {
+          "attributes": [
+            { "value": "text/javascript", "name": "type" },
+            { "value": "utf-8", "name": "charset" },
+            { "value": "zm-extension", "name": "id" },
+            {
+              "value": "chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/scripts/webrtc-patch.js",
+              "name": "src"
+            },
+            { "value": "", "name": "async" }
+          ],
+          "id": 9,
+          "tagName": "SCRIPT",
+          "nodeType": 1
+        },
+        {
+          "childNodes": [
+            { "textContent": "\n  ", "id": 35, "nodeType": 3 },
+            {
+              "attributes": [{ "value": "utf-8", "name": "charset" }],
+              "id": 44,
+              "tagName": "META",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 54, "nodeType": 3 },
+            {
+              "attributes": [
+                { "value": "viewport", "name": "name" },
+                {
+                  "value": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                  "name": "content"
+                }
+              ],
+              "id": 65,
+              "tagName": "META",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 77, "nodeType": 3 },
+            {
+              "attributes": [
+                { "value": "description", "name": "name" },
+                { "value": "", "name": "content" }
+              ],
+              "id": 90,
+              "tagName": "META",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 104, "nodeType": 3 },
+            {
+              "attributes": [
+                { "value": "author", "name": "name" },
+                { "value": "", "name": "content" }
+              ],
+              "id": 119,
+              "tagName": "META",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 135, "nodeType": 3 },
+            {
+              "childNodes": [
+                {
+                  "textContent": "Album example for Bootstrap",
+                  "id": 1539,
+                  "nodeType": 3
+                }
+              ],
+              "tagName": "TITLE",
+              "id": 152,
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 170, "nodeType": 3 },
+            { "textContent": " Bootstrap core CSS ", "id": 189, "nodeType": 8 },
+            { "textContent": "\n  ", "id": 209, "nodeType": 3 },
+            {
+              "attributes": [
+                { "value": "stylesheet", "name": "rel" },
+                {
+                  "value": "https://app.sessionstack.com/api/resources/5b7bfc0147a7f81d4b22a5ce/1534852097740/https%253A%252F%252Fbryxentestly.github.io%252Fsession-test-ground%252F/https%253A%252F%252Fstackpath.bootstrapcdn.com%252Fbootstrap%252F4.1.3%252Fcss%252Fbootstrap.min.css",
+                  "name": "href"
+                },
+                {
+                  "value": "sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",
+                  "name": "integrity"
+                },
+                { "value": "anonymous", "name": "crossorigin" }
+              ],
+              "id": 230,
+              "tagName": "LINK",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 252, "nodeType": 3 },
+            {
+              "textContent": " Custom styles for this template ",
+              "id": 275,
+              "nodeType": 8
+            },
+            { "textContent": "\n  ", "id": 299, "nodeType": 3 },
+            {
+              "attributes": [
+                {
+                  "value": "https://app.sessionstack.com/api/resources/5b7bfc0147a7f81d4b22a5ce/1534852097740/https%253A%252F%252Fbryxentestly.github.io%252Fsession-test-ground%252F/album.css",
+                  "name": "href"
+                },
+                { "value": "stylesheet", "name": "rel" }
+              ],
+              "id": 324,
+              "tagName": "LINK",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n", "id": 350, "nodeType": 3 }
+          ],
+          "tagName": "HEAD",
+          "id": 14,
+          "nodeType": 1
+        },
+        { "textContent": "\n\n", "id": 20, "nodeType": 3 },
+        {
+          "childNodes": [
+            { "textContent": "\n\n  ", "id": 377, "nodeType": 3 },
+            {
+              "childNodes": [
+                { "textContent": "\n    ", "id": 1595, "nodeType": 3 },
+                {
+                  "childNodes": [
+                    { "textContent": "\n      ", "id": 2849, "nodeType": 3 },
+                    {
+                      "childNodes": [
+                        {
+                          "textContent": "\n        ",
+                          "id": 4559,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 7625,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "Modal title",
+                                  "id": 14877,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "modal-title", "name": "class" },
+                                { "value": "exampleModalLabel", "name": "id" }
+                              ],
+                              "id": 7749,
+                              "tagName": "H5",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 7874,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 15050,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\u00d7",
+                                      "id": 24530,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    { "value": "true", "name": "aria-hidden" }
+                                  ],
+                                  "id": 15224,
+                                  "tagName": "SPAN",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 15399,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "button", "name": "type" },
+                                { "value": "close", "name": "class" },
+                                { "value": "modal", "name": "data-dismiss" },
+                                { "value": "Close", "name": "aria-label" }
+                              ],
+                              "id": 8000,
+                              "tagName": "BUTTON",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 8127,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "modal-header", "name": "class" }
+                          ],
+                          "id": 4655,
+                          "tagName": "DIV",
+                          "nodeType": 1
+                        },
+                        {
+                          "textContent": "\n        ",
+                          "id": 4752,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 8255,
+                              "nodeType": 3
+                            },
+                            {
+                              "attributes": [
+                                { "value": "card-img-top", "name": "class" },
+                                {
+                                  "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                  "name": "data-src"
+                                },
+                                {
+                                  "value": "Thumbnail [100%x225]",
+                                  "name": "alt"
+                                },
+                                {
+                                  "value": "height: 225px; width: 100%; display: block;",
+                                  "name": "style"
+                                }
+                              ],
+                              "id": 8384,
+                              "tagName": "IMG",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": " Hi!!!\n        ",
+                              "id": 8514,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "modal-body", "name": "class" }
+                          ],
+                          "id": 4850,
+                          "tagName": "DIV",
+                          "nodeType": 1
+                        },
+                        {
+                          "textContent": "\n        ",
+                          "id": 4949,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 8645,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "Close",
+                                  "id": 15575,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "button", "name": "type" },
+                                {
+                                  "value": "btn btn-secondary",
+                                  "name": "class"
+                                },
+                                { "value": "modal", "name": "data-dismiss" }
+                              ],
+                              "id": 8777,
+                              "tagName": "BUTTON",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 8910,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "modal-footer", "name": "class" }
+                          ],
+                          "id": 5049,
+                          "tagName": "DIV",
+                          "nodeType": 1
+                        },
+                        { "textContent": "\n      ", "id": 5150, "nodeType": 3 }
+                      ],
+                      "attributes": [
+                        { "value": "modal-content", "name": "class" }
+                      ],
+                      "id": 2925,
+                      "tagName": "DIV",
+                      "nodeType": 1
+                    },
+                    { "textContent": "\n    ", "id": 3002, "nodeType": 3 }
+                  ],
+                  "attributes": [
+                    { "value": "modal-dialog", "name": "class" },
+                    { "value": "document", "name": "role" }
+                  ],
+                  "id": 1652,
+                  "tagName": "DIV",
+                  "nodeType": 1
+                },
+                { "textContent": "\n  ", "id": 1710, "nodeType": 3 }
+              ],
+              "attributes": [
+                { "value": "modal fade", "name": "class" },
+                { "value": "exampleModal", "name": "id" },
+                { "value": "-1", "name": "tabindex" },
+                { "value": "dialog", "name": "role" },
+                { "value": "exampleModalLabel", "name": "aria-labelledby" },
+                { "value": "true", "name": "aria-hidden" }
+              ],
+              "id": 405,
+              "tagName": "DIV",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 434, "nodeType": 3 },
+            {
+              "childNodes": [
+                { "textContent": "\n    ", "id": 1769, "nodeType": 3 },
+                {
+                  "childNodes": [
+                    { "textContent": "\n      ", "id": 3080, "nodeType": 3 },
+                    {
+                      "childNodes": [
+                        {
+                          "textContent": "\n        ",
+                          "id": 5252,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 9044,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 15752,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "About",
+                                      "id": 24752,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    { "value": "text-white", "name": "class" }
+                                  ],
+                                  "id": 15930,
+                                  "tagName": "H4",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 16109,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "Add some information about the album below, the author, or any other background context. Make it a few sentences\n              long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or\n              contact information.",
+                                      "id": 24975,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    { "value": "text-muted", "name": "class" }
+                                  ],
+                                  "id": 16289,
+                                  "tagName": "P",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 16470,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                {
+                                  "value": "col-sm-8 col-md-7 py-4",
+                                  "name": "class"
+                                }
+                              ],
+                              "id": 9179,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 9315,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 16652,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "Contact",
+                                      "id": 25199,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    { "value": "text-white", "name": "class" }
+                                  ],
+                                  "id": 16835,
+                                  "tagName": "H4",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 17019,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 25424,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 38502,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "Follow on Twitter",
+                                              "id": 54945,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            { "value": "#", "name": "href" },
+                                            {
+                                              "value": "text-white",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 38780,
+                                          "tagName": "A",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 39059,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "tagName": "LI",
+                                      "id": 25650,
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 25877,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 39339,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "Like on Facebook",
+                                              "id": 55277,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            { "value": "#", "name": "href" },
+                                            {
+                                              "value": "text-white",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 39620,
+                                          "tagName": "A",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 39902,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "tagName": "LI",
+                                      "id": 26105,
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 26334,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 40185,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "Email me",
+                                              "id": 55610,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            { "value": "#", "name": "href" },
+                                            {
+                                              "value": "text-white",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 40469,
+                                          "tagName": "A",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 40754,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "tagName": "LI",
+                                      "id": 26564,
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 26795,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "list-unstyled",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 17204,
+                                  "tagName": "UL",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 17390,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                {
+                                  "value": "col-sm-4 offset-md-1 py-4",
+                                  "name": "class"
+                                }
+                              ],
+                              "id": 9452,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 9590,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [{ "value": "row", "name": "class" }],
+                          "id": 5355,
+                          "tagName": "DIV",
+                          "nodeType": 1
+                        },
+                        { "textContent": "\n      ", "id": 5459, "nodeType": 3 }
+                      ],
+                      "attributes": [{ "value": "container", "name": "class" }],
+                      "id": 3159,
+                      "tagName": "DIV",
+                      "nodeType": 1
+                    },
+                    { "textContent": "\n    ", "id": 3239, "nodeType": 3 }
+                  ],
+                  "attributes": [
+                    { "value": "collapse bg-dark", "name": "class" },
+                    { "value": "navbarHeader", "name": "id" }
+                  ],
+                  "id": 1829,
+                  "tagName": "DIV",
+                  "nodeType": 1
+                },
+                { "textContent": "\n    ", "id": 1890, "nodeType": 3 },
+                {
+                  "childNodes": [
+                    { "textContent": "\n      ", "id": 3320, "nodeType": 3 },
+                    {
+                      "childNodes": [
+                        {
+                          "textContent": "\n        ",
+                          "id": 5564,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 9729,
+                              "nodeType": 3
+                            },
+                            {
+                              "attributes": [
+                                {
+                                  "value": "http://www.w3.org/2000/svg",
+                                  "name": "xmlns"
+                                },
+                                { "value": "20", "name": "width" },
+                                { "value": "20", "name": "height" },
+                                { "value": "0 0 24 24", "name": "viewBox" },
+                                { "value": "none", "name": "fill" },
+                                { "value": "currentColor", "name": "stroke" },
+                                { "value": "2", "name": "stroke-width" },
+                                { "value": "round", "name": "stroke-linecap" },
+                                { "value": "round", "name": "stroke-linejoin" },
+                                { "value": "mr-2", "name": "class" }
+                              ],
+                              "id": 9869,
+                              "nodeType": 1,
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 17577,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "attributes": [
+                                    {
+                                      "value": "M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z",
+                                      "name": "d"
+                                    }
+                                  ],
+                                  "id": 17765,
+                                  "isSvg": true,
+                                  "tagName": "path",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 17954,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "attributes": [
+                                    { "value": "12", "name": "cx" },
+                                    { "value": "13", "name": "cy" },
+                                    { "value": "4", "name": "r" }
+                                  ],
+                                  "id": 18144,
+                                  "isSvg": true,
+                                  "tagName": "circle",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 18335,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "tagName": "svg",
+                              "isSvg": true
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 10010,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "Album",
+                                  "id": 18527,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "tagName": "STRONG",
+                              "id": 10152,
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 10295,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "#", "name": "href" },
+                            {
+                              "value": "navbar-brand d-flex align-items-center",
+                              "name": "class"
+                            }
+                          ],
+                          "id": 5670,
+                          "tagName": "A",
+                          "nodeType": 1
+                        },
+                        {
+                          "textContent": "\n        ",
+                          "id": 5777,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 10439,
+                              "nodeType": 3
+                            },
+                            {
+                              "attributes": [
+                                {
+                                  "value": "navbar-toggler-icon",
+                                  "name": "class"
+                                }
+                              ],
+                              "id": 10584,
+                              "tagName": "SPAN",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 10730,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "navbar-toggler", "name": "class" },
+                            { "value": "button", "name": "type" },
+                            { "value": "collapse", "name": "data-toggle" },
+                            { "value": "#navbarHeader", "name": "data-target" },
+                            {
+                              "value": "navbarHeader",
+                              "name": "aria-controls"
+                            },
+                            { "value": "false", "name": "aria-expanded" },
+                            {
+                              "value": "Toggle navigation",
+                              "name": "aria-label"
+                            }
+                          ],
+                          "id": 5885,
+                          "tagName": "BUTTON",
+                          "nodeType": 1
+                        },
+                        { "textContent": "\n      ", "id": 5994, "nodeType": 3 }
+                      ],
+                      "attributes": [
+                        {
+                          "value": "container d-flex justify-content-between",
+                          "name": "class"
+                        }
+                      ],
+                      "id": 3402,
+                      "tagName": "DIV",
+                      "nodeType": 1
+                    },
+                    { "textContent": "\n    ", "id": 3485, "nodeType": 3 }
+                  ],
+                  "attributes": [
+                    {
+                      "value": "navbar navbar-dark bg-dark shadow-sm",
+                      "name": "class"
+                    }
+                  ],
+                  "id": 1952,
+                  "tagName": "DIV",
+                  "nodeType": 1
+                },
+                { "textContent": "\n  ", "id": 2015, "nodeType": 3 }
+              ],
+              "tagName": "HEADER",
+              "id": 464,
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 495, "nodeType": 3 },
+            {
+              "childNodes": [
+                { "textContent": "\n\n    ", "id": 2079, "nodeType": 3 },
+                {
+                  "childNodes": [
+                    { "textContent": "\n      ", "id": 3569, "nodeType": 3 },
+                    {
+                      "childNodes": [
+                        {
+                          "textContent": "\n        ",
+                          "id": 6104,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "Album example",
+                              "id": 10877,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "jumbotron-heading", "name": "class" }
+                          ],
+                          "id": 6215,
+                          "tagName": "H1",
+                          "nodeType": 1
+                        },
+                        {
+                          "textContent": "\n        ",
+                          "id": 6327,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "Something short and leading about the collection below\u2014its contents, the creator, etc. Make it short and sweet, but\n          not too short so folks don't simply skip over it entirely.",
+                              "id": 11025,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [
+                            { "value": "lead text-muted", "name": "class" }
+                          ],
+                          "id": 6440,
+                          "tagName": "P",
+                          "nodeType": 1
+                        },
+                        {
+                          "textContent": "\n        ",
+                          "id": 6554,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 11174,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "Show modal",
+                                  "id": 18720,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "#", "name": "href" },
+                                {
+                                  "value": "btn btn-primary my-2",
+                                  "name": "class"
+                                },
+                                { "value": "modal", "name": "data-toggle" },
+                                {
+                                  "value": "#exampleModal",
+                                  "name": "data-target"
+                                }
+                              ],
+                              "id": 11324,
+                              "tagName": "A",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 11475,
+                              "nodeType": 3
+                            }
+                          ],
+                          "tagName": "P",
+                          "id": 6669,
+                          "nodeType": 1
+                        },
+                        { "textContent": "\n      ", "id": 6785, "nodeType": 3 }
+                      ],
+                      "attributes": [{ "value": "container", "name": "class" }],
+                      "id": 3654,
+                      "tagName": "DIV",
+                      "nodeType": 1
+                    },
+                    { "textContent": "\n    ", "id": 3740, "nodeType": 3 }
+                  ],
+                  "attributes": [
+                    { "value": "jumbotron text-center", "name": "class" }
+                  ],
+                  "id": 2144,
+                  "tagName": "SECTION",
+                  "nodeType": 1
+                },
+                { "textContent": "\n\n    ", "id": 2210, "nodeType": 3 },
+                {
+                  "childNodes": [
+                    { "textContent": "\n      ", "id": 3827, "nodeType": 3 },
+                    {
+                      "childNodes": [
+                        {
+                          "textContent": "\n\n        ",
+                          "id": 6902,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "\n          ",
+                              "id": 11627,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 18914,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 27027,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506505%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506505%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        }
+                                      ],
+                                      "id": 27260,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 27494,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 41040,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 55944,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 41327,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 41615,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 56279,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 75465,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 90099,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 75854,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 76244,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 56615,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 56952,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 76635,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 57290,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 57629,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 41904,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 42194,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 27729,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 27965,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 19109,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 19305,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 11780,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 11934,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 19502,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 28202,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506509%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506509%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 28440,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 28679,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 42485,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 57969,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 42777,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 43070,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 58310,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 77027,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 90524,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 77420,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 77814,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 58652,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 58995,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 78209,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 59339,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 59684,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 43364,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 43659,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 28919,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 29160,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 19700,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 19899,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 12089,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 12245,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 20099,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 29402,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c50650b%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c50650b%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 29645,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 29889,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 43955,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 60030,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 44252,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 44550,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 60377,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 78605,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 90950,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 79002,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 79400,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 60725,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 61074,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 79799,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 61424,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 61775,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 44849,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 45149,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 30134,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 30380,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 20300,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 20502,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 12402,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n\n          ",
+                              "id": 12560,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 20705,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 30627,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c50650e%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c50650e%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 30875,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 31124,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 45450,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 62127,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 45752,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 46055,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 62480,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 80199,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 91377,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 80600,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 81002,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 62834,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 63189,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 81405,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 63545,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 63902,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 46359,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 46664,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 31374,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 31625,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 20909,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 21114,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 12719,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 12879,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 21320,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 31877,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506510%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506510%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 32130,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 32384,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 46970,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 64260,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 47277,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 47585,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 64619,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 81809,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 91805,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 82214,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 82620,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 64979,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 65340,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 83027,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 65702,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 66065,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 47894,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 48204,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 32639,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 32895,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 21527,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 21735,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 13040,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 13202,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 21944,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 33152,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506512%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506512%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 33410,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 33669,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 48515,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 66429,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 48827,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 49140,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 66794,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 83435,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 92234,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 83844,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 84254,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 67160,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 67527,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 84665,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 67895,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 68264,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 49454,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 49769,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 33929,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 34190,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 22154,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 22365,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 13365,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n\n          ",
+                              "id": 13529,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 22577,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 34452,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506513%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506513%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 34715,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 34979,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 50085,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 68634,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 50402,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 50720,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 69005,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 85077,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 92664,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 85490,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 85904,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 69377,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 69750,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 86319,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 70124,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 70499,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 51039,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 51359,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 35244,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 35510,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 22790,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 23004,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 13694,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 13860,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 23219,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 35777,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506515%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506515%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 36045,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 36314,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 51680,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 70875,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 52002,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 52325,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 71252,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 86735,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 93095,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 87152,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 87570,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 71630,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 72009,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 87989,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 72389,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 72770,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 52649,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 52974,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 36584,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 36855,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 23435,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 23652,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 14027,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n          ",
+                              "id": 14195,
+                              "nodeType": 3
+                            },
+                            {
+                              "childNodes": [
+                                {
+                                  "textContent": "\n            ",
+                                  "id": 23870,
+                                  "nodeType": 3
+                                },
+                                {
+                                  "childNodes": [
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 37127,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "attributes": [
+                                        {
+                                          "value": "card-img-top",
+                                          "name": "class"
+                                        },
+                                        {
+                                          "value": "holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail",
+                                          "name": "data-src"
+                                        },
+                                        {
+                                          "value": "Thumbnail [100%x225]",
+                                          "name": "alt"
+                                        },
+                                        {
+                                          "value": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22348%22%20height%3D%22225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20348%20225%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1655c506516%20text%20%7B%20fill%3A%23eceeef%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A17pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1655c506516%22%3E%3Crect%20width%3D%22348%22%20height%3D%22225%22%20fill%3D%22%2355595c%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22116.71875%22%20y%3D%22120.15%22%3EThumbnail%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+                                          "name": "src"
+                                        },
+                                        {
+                                          "value": "true",
+                                          "name": "data-holder-rendered"
+                                        },
+                                        {
+                                          "value": "height: 225px; width: 100%; display: block;",
+                                          "name": "style"
+                                        }
+                                      ],
+                                      "id": 37400,
+                                      "tagName": "IMG",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n              ",
+                                      "id": 37674,
+                                      "nodeType": 3
+                                    },
+                                    {
+                                      "childNodes": [
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 53300,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "This is a wider card with supporting text below as a natural lead-in to additional content. This content\n                  is a little bit longer.",
+                                              "id": 73152,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "card-text",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 53627,
+                                          "tagName": "P",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n                ",
+                                          "id": 53955,
+                                          "nodeType": 3
+                                        },
+                                        {
+                                          "childNodes": [
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 73535,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "\n                    ",
+                                                  "id": 88409,
+                                                  "nodeType": 3
+                                                },
+                                                {
+                                                  "childNodes": [
+                                                    {
+                                                      "textContent": "View",
+                                                      "id": 93527,
+                                                      "nodeType": 3
+                                                    }
+                                                  ],
+                                                  "attributes": [
+                                                    {
+                                                      "value": "button",
+                                                      "name": "role"
+                                                    },
+                                                    {
+                                                      "value": "btn btn-sm btn-outline-secondary",
+                                                      "name": "class"
+                                                    },
+                                                    {
+                                                      "value": "./show.html",
+                                                      "name": "href"
+                                                    }
+                                                  ],
+                                                  "id": 88830,
+                                                  "tagName": "A",
+                                                  "nodeType": 1
+                                                },
+                                                {
+                                                  "textContent": "\n                  ",
+                                                  "id": 89252,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "btn-group",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 73919,
+                                              "tagName": "DIV",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                  ",
+                                              "id": 74304,
+                                              "nodeType": 3
+                                            },
+                                            {
+                                              "childNodes": [
+                                                {
+                                                  "textContent": "9 mins",
+                                                  "id": 89675,
+                                                  "nodeType": 3
+                                                }
+                                              ],
+                                              "attributes": [
+                                                {
+                                                  "value": "text-muted",
+                                                  "name": "class"
+                                                }
+                                              ],
+                                              "id": 74690,
+                                              "tagName": "SMALL",
+                                              "nodeType": 1
+                                            },
+                                            {
+                                              "textContent": "\n                ",
+                                              "id": 75077,
+                                              "nodeType": 3
+                                            }
+                                          ],
+                                          "attributes": [
+                                            {
+                                              "value": "d-flex justify-content-between align-items-center",
+                                              "name": "class"
+                                            }
+                                          ],
+                                          "id": 54284,
+                                          "tagName": "DIV",
+                                          "nodeType": 1
+                                        },
+                                        {
+                                          "textContent": "\n              ",
+                                          "id": 54614,
+                                          "nodeType": 3
+                                        }
+                                      ],
+                                      "attributes": [
+                                        {
+                                          "value": "card-body",
+                                          "name": "class"
+                                        }
+                                      ],
+                                      "id": 37949,
+                                      "tagName": "DIV",
+                                      "nodeType": 1
+                                    },
+                                    {
+                                      "textContent": "\n            ",
+                                      "id": 38225,
+                                      "nodeType": 3
+                                    }
+                                  ],
+                                  "attributes": [
+                                    {
+                                      "value": "card mb-4 shadow-sm",
+                                      "name": "class"
+                                    }
+                                  ],
+                                  "id": 24089,
+                                  "tagName": "DIV",
+                                  "nodeType": 1
+                                },
+                                {
+                                  "textContent": "\n          ",
+                                  "id": 24309,
+                                  "nodeType": 3
+                                }
+                              ],
+                              "attributes": [
+                                { "value": "col-md-4", "name": "class" }
+                              ],
+                              "id": 14364,
+                              "tagName": "DIV",
+                              "nodeType": 1
+                            },
+                            {
+                              "textContent": "\n        ",
+                              "id": 14534,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [{ "value": "row", "name": "class" }],
+                          "id": 7020,
+                          "tagName": "DIV",
+                          "nodeType": 1
+                        },
+                        { "textContent": "\n      ", "id": 7139, "nodeType": 3 }
+                      ],
+                      "attributes": [{ "value": "container", "name": "class" }],
+                      "id": 3915,
+                      "tagName": "DIV",
+                      "nodeType": 1
+                    },
+                    { "textContent": "\n    ", "id": 4004, "nodeType": 3 }
+                  ],
+                  "attributes": [
+                    { "value": "album py-5 bg-light", "name": "class" }
+                  ],
+                  "id": 2277,
+                  "tagName": "DIV",
+                  "nodeType": 1
+                },
+                { "textContent": "\n\n  ", "id": 2345, "nodeType": 3 }
+              ],
+              "attributes": [{ "value": "main", "name": "role" }],
+              "id": 527,
+              "tagName": "MAIN",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 560, "nodeType": 3 },
+            {
+              "childNodes": [
+                { "textContent": "\n    ", "id": 2414, "nodeType": 3 },
+                {
+                  "childNodes": [
+                    { "textContent": "\n      ", "id": 4094, "nodeType": 3 },
+                    {
+                      "childNodes": [
+                        {
+                          "textContent": "\n        ",
+                          "id": 7259,
+                          "nodeType": 3
+                        },
+                        {
+                          "childNodes": [
+                            {
+                              "textContent": "Back to top",
+                              "id": 14705,
+                              "nodeType": 3
+                            }
+                          ],
+                          "attributes": [{ "value": "#", "name": "href" }],
+                          "id": 7380,
+                          "tagName": "A",
+                          "nodeType": 1
+                        },
+                        { "textContent": "\n      ", "id": 7502, "nodeType": 3 }
+                      ],
+                      "attributes": [
+                        { "value": "float-right", "name": "class" }
+                      ],
+                      "id": 4185,
+                      "tagName": "P",
+                      "nodeType": 1
+                    },
+                    { "textContent": "\n    ", "id": 4277, "nodeType": 3 }
+                  ],
+                  "attributes": [{ "value": "container", "name": "class" }],
+                  "id": 2484,
+                  "tagName": "DIV",
+                  "nodeType": 1
+                },
+                { "textContent": "\n  ", "id": 2555, "nodeType": 3 }
+              ],
+              "attributes": [{ "value": "text-muted", "name": "class" }],
+              "id": 594,
+              "tagName": "FOOTER",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 629, "nodeType": 3 },
+            {
+              "textContent": " Bootstrap core JavaScript\n    ================================================== ",
+              "id": 665,
+              "nodeType": 8
+            },
+            { "textContent": "\n  ", "id": 702, "nodeType": 3 },
+            {
+              "textContent": " Placed at the end of the document so the pages load faster ",
+              "id": 740,
+              "nodeType": 8
+            },
+            { "textContent": "\n  ", "id": 779, "nodeType": 3 },
+            {
+              "attributes": [
+                {
+                  "value": "https://code.jquery.com/jquery-3.3.1.slim.min.js",
+                  "name": "src"
+                },
+                {
+                  "value": "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo",
+                  "name": "integrity"
+                },
+                { "value": "anonymous", "name": "crossorigin" }
+              ],
+              "id": 819,
+              "tagName": "SCRIPT",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 860, "nodeType": 3 },
+            {
+              "attributes": [
+                {
+                  "value": "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js",
+                  "name": "src"
+                },
+                {
+                  "value": "sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49",
+                  "name": "integrity"
+                },
+                { "value": "anonymous", "name": "crossorigin" }
+              ],
+              "id": 902,
+              "tagName": "SCRIPT",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 945, "nodeType": 3 },
+            {
+              "attributes": [
+                {
+                  "value": "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js",
+                  "name": "src"
+                },
+                {
+                  "value": "sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy",
+                  "name": "integrity"
+                },
+                { "value": "anonymous", "name": "crossorigin" }
+              ],
+              "id": 989,
+              "tagName": "SCRIPT",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 1034, "nodeType": 3 },
+            {
+              "attributes": [{ "value": "./holder.min.js", "name": "src" }],
+              "id": 1080,
+              "tagName": "SCRIPT",
+              "nodeType": 1
+            },
+            { "textContent": "\n\n  ", "id": 1127, "nodeType": 3 },
+            {
+              "textContent": " Begin SessionStack code ",
+              "id": 1175,
+              "nodeType": 8
+            },
+            { "textContent": "\n  ", "id": 1224, "nodeType": 3 },
+            {
+              "childNodes": [
+                {
+                  "textContent": "\n    !function (a, b) {\n      var c = window; c.SessionStackKey = a, c[a] = c[a] || {\n        t: b,\n        q: []\n      }; for (var d = [\"start\", \"stop\", \"identify\", \"getSessionId\", \"log\"], e = 0; e < d.length; e++)!function (b) {\n        c[a][b] = c[a][b] || function () {\n          c[a].q.push([b].concat([].slice.call(arguments, 0)));\n        }\n      }(d[e]); var f = document.createElement(\"script\"); f.async = 1, f.src = \"https://cdn.sessionstack.com/sessionstack.js\";\n      var g = document.getElementsByTagName(\"script\")[0]; g.parentNode.insertBefore(f, g);\n    }(\"SessionStack\", \"813564b255154dad974b0e4b1da3fe13\");\n  ",
+                  "id": 2627,
+                  "nodeType": 3
+                }
+              ],
+              "attributes": [{ "value": "text/javascript", "name": "type" }],
+              "id": 1274,
+              "tagName": "SCRIPT",
+              "nodeType": 1
+            },
+            { "textContent": "\n  ", "id": 1325, "nodeType": 3 },
+            {
+              "textContent": " End SessionStack Code ",
+              "id": 1377,
+              "nodeType": 8
+            },
+            { "textContent": "\n\n\n", "id": 1430, "nodeType": 3 },
+            {
+              "attributes": [
+                { "value": "http://www.w3.org/2000/svg", "name": "xmlns" },
+                { "value": "348", "name": "width" },
+                { "value": "225", "name": "height" },
+                { "value": "0 0 348 225", "name": "viewBox" },
+                { "value": "none", "name": "preserveAspectRatio" },
+                {
+                  "value": "display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;",
+                  "name": "style"
+                }
+              ],
+              "id": 1484,
+              "nodeType": 1,
+              "childNodes": [
+                {
+                  "childNodes": [
+                    {
+                      "attributes": [{ "value": "text/css", "name": "type" }],
+                      "id": 4370,
+                      "isSvg": true,
+                      "tagName": "style",
+                      "nodeType": 1
+                    }
+                  ],
+                  "tagName": "defs",
+                  "id": 2700,
+                  "isSvg": true,
+                  "nodeType": 1
+                },
+                {
+                  "attributes": [
+                    { "value": "0", "name": "x" },
+                    { "value": "17", "name": "y" },
+                    {
+                      "value": "font-weight:bold;font-size:17pt;font-family:Arial, Helvetica, Open Sans, sans-serif",
+                      "name": "style"
+                    }
+                  ],
+                  "id": 2774,
+                  "nodeType": 1,
+                  "childNodes": [
+                    { "textContent": "Thumbnail", "id": 4464, "nodeType": 3 }
+                  ],
+                  "tagName": "text",
+                  "isSvg": true
+                }
+              ],
+              "tagName": "svg",
+              "isSvg": true
+            }
+          ],
+          "tagName": "BODY",
+          "id": 27,
+          "nodeType": 1
+        }
+      ],
+      "attributes": [{ "value": "en", "name": "lang" }],
+      "id": 2,
+      "tagName": "HTML",
+      "nodeType": 1
+    },
+    "browserVersion": "68.0.3440.106",
+    "screenWidth": 1680,
+    "top": 0,
+    "city": "Arkhangelsk",
+    "clientStartMilliseconds": 1534852097740.0,
+    "start": 1534852097000.0,
+    "userIdentity": {
+      "email": null,
+      "displayName": "User 1",
+      "customFields": [],
+      "identifier": "107b4db0-259c-420c-bfc8-975e92ae8f4b"
+    },
+    "origin": "https://bryxentestly.github.io/session-test-ground/",
+    "length": 39361,
+    "version": "62",
+    "hasInaccessibleResources": null,
+    "country": "Russian Federation",
+    "isLive": true,
+    "left": 0,
+    "os": "OS X 10.13.5 64-bit"
+  },
+  "log": null
+}
